@@ -1,4 +1,4 @@
-# NBA Score Visualizer Program (INST 326 - Group 7)
+# NBA Score Visualizer Program (INST 326 - Group Project)
 ### _Group Members : Matthew Makonnen, Connor Beaudoin, Moses Nyirinkindi, Eric Evan Topmiller_
 
 ### Introduction
